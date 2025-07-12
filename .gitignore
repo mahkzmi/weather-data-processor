@@ -1,0 +1,4 @@
+output_stations/
+converted_xlsx/
+*.pyc
+__pycache__/
